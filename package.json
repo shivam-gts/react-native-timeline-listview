@@ -21,7 +21,8 @@
     "component"
   ],
   "peerDependencies": {
-    "react-native": ">= 0.4"
+    "react-native": ">= 0.4",
+    "react-native-timeline-listview": "^0.2.3"
   },
   "author": "Watcharachai Kanjaikaew (https://github.com/thegamenicorus)",
   "license": "MIT",
